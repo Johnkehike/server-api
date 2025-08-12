@@ -1,4 +1,5 @@
-"cost": [
+{
+    "cost": [
     {
       "id": 1,
       "title": "basic",
@@ -18,3 +19,4 @@
       "yearlyDiscount": 25
     }
   ]
+}
